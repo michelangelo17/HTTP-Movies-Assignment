@@ -101,3 +101,20 @@ body {
   color: red;
   text-align: center;
 }
+.update-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  input {
+    margin: 10px;
+  }
+}
+
+.add-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  input {
+    margin: 10px;
+  }
+}
